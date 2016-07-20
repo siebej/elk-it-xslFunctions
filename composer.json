@@ -1,5 +1,5 @@
 {
-    "name": "ElkIt/xslFunctions",
+    "name": "elk-it/xsl-functions",
     "type": "library",
     "description": "xslFunctions for PHP",
     "keywords": ["xslFunctions"],
