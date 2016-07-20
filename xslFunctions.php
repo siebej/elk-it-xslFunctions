@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace ElkIt\xslFunctions;
+namespace ElkIt;
 
 /**
  * Description of xslFunctions
