@@ -1,0 +1,19 @@
+{
+    "name": "ElkIt/xslFunctions",
+    "type": "library",
+    "description": "xslFunctions for PHP",
+    "keywords": ["xslFunctions"],
+    "homepage": "https://github.com/siebej/elk-it-xslFunctions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Siebe Jongebloed",
+            "email": "info@elk-it.com",
+            "homepage": "http://www.elk-it.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
