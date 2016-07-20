@@ -1,6 +1,7 @@
 {
     "name": "elk-it/xsl-functions",
     "type": "library",
+    "version": "0.1.1" ,
     "description": "xslFunctions for PHP",
     "keywords": ["xslFunctions"],
     "homepage": "https://github.com/siebej/elk-it-xslFunctions",

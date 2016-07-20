@@ -11,7 +11,7 @@ namespace ElkIt;
 /**
  * Description of xslFunctions
  *
- * @author siebejongebloed
+ * @author Siebe Jongebloed
  */
 class xslFunctions {
     
